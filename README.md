@@ -12,6 +12,14 @@ docker-compose up --build
 
 `default port` https://blog.cloudera.com/blog/2013/07/guide-to-using-apache-hbase-ports
 
+## Cloudera
+
+`docker` https://github.com/emirkorkmaz/cloudera-quickstart-docker-compose
+
+## Hue
+
+`docker` https://github.com/cloudera/hue/tree/master/tools/docker
+
 ## Port
 
 ```sh
